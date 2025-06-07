@@ -29,6 +29,7 @@
     "@livestore/react": "^0.3.1",
     "@livestore/sync-cf": "^0.3.1",
     "@livestore/wa-sqlite": "^1.0.5-dev.2",
+    "react-dom": "~19.0.0",
     "rwsdk": "0.0.88"
   },
   "devDependencies": {
